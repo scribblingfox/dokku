@@ -11,14 +11,14 @@ Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 
 ## Installing
 
-To install the latest stable release, you can run the following commands as a user that has access to `sudo`:
+To install the latest stable release, run the following commands as a user that has access to `sudo`:
 
     wget https://raw.githubusercontent.com/dokku/dokku/v0.7.2/bootstrap.sh
     sudo DOKKU_TAG=v0.7.2 bash bootstrap.sh
 
-You can then proceed to the ip address or domain name associated with your server to complete the web-based installation.
+Afterward, proceed to the IP address or domain name associated with your server to complete the web-based installation.
 
-If you wish for a more unattended installation method, see [these](http://dokku.viewdocs.io/dokku/getting-started/install/debian/#unattended-installation) docs.
+If you wish for a more unattended installation method, read [these](http://dokku.viewdocs.io/dokku/getting-started/install/debian/#unattended-installation) docs.
 
 ### Upgrading
 
@@ -26,7 +26,7 @@ If you wish for a more unattended installation method, see [these](http://dokku.
 
 ## Documentation
 
-Full documentation - including advanced installation docs - are available online at [docs](http://dokku.viewdocs.io/dokku/)
+Full documentation - including advanced installation docs - is available online at [docs](http://dokku.viewdocs.io/dokku/)
 
 ## Support
 
